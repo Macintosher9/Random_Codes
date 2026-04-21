@@ -1,0 +1,10 @@
+{
+    "config": "air",
+    "compilerOptions": {
+        "output": "bin/Main.swf"
+    },
+    "files": [
+        "Main.as"
+    ],
+    "type": "app"
+}
