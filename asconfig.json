@@ -3,6 +3,7 @@
     "compilerOptions": {
         "output": "bin/Main.swf"
     },
+    "application": "Main-app.xml",
     "files": [
         "Main.as"
     ],
