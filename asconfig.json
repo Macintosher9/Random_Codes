@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "output": "bin/HelloWorld.swf"
+    },
+    "mainClass": "src/HelloWorld.as"
+}
